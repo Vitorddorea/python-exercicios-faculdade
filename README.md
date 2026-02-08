@@ -38,8 +38,13 @@ aula_01/ → Variáveis, Tipos de Dados e Operadores
 aula_02/ → Desvio Condicional (if, elif, else) 
 aula_03/ → Laços de repetição (for, while)
 
-
 ---
+
+## 📁 Lista de aulas
+
+- [Aula 01 – Variáveis, Tipos e Operadores](aula01/README.md)
+
+--- 
 
 ## 🚀 Observações
 
