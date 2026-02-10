@@ -22,8 +22,8 @@ Os exercícios têm como objetivo reforçar a lógica de programação e a base 
 - [x] **Exercício 01** – Criação de variáveis (nome, idade e altura) e impressão de uma frase  
 - [x] **Exercício 02** – Operações aritméticas (soma, subtração, multiplicação e divisão)  
 - [x] **Exercício 03** – Cálculo do IMC (Índice de Massa Corporal)  
-- [ ] **Exercício 04** – Cálculo do valor final de uma compra com desconto  
-- [ ] **Exercício 05** – Verificação se um número é par ou ímpar  
+- [x] **Exercício 04** – Cálculo do valor final de uma compra com desconto  
+- [x] **Exercício 05** – Verificação se um número é par ou ímpar  
 
 ---
 
