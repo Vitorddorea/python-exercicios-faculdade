@@ -1,0 +1,15 @@
+'''Verificação de Divisibilidade:
+Crie uma variável numero = 10. Verifique se o número é divisível por 2 e por 5 ao mesmo tempo e imprima a resposta.'''
+
+numero = 10 
+
+if numero % 2 == 0 and numero % 5 == 0:
+    print(f'O número {numero} é divisível por 2 e 5')
+
+# se for pra usar o for
+
+for c in range(numero + 1):
+    if c % 2 == 0:
+        print(f'Número {c} é divisível por 2')
+    if c % 5 == 0:
+        print(f'Número {c} é divisível por 5')

@@ -24,9 +24,9 @@ Os exercícios têm como objetivo desenvolver o raciocínio lógico, permitindo 
 
 - [x] **Exercício 03** – Identificação de dia de semana ou final de semana
 
-- [ ] **Exercício 04** – Validação de senha digitada
+- [x] **Exercício 04** – Validação de senha digitada
 
-- [ ] **Exercício 05** – Controle de velocidade e aplicação de penalidades
+- [x] **Exercício 05** – Controle de velocidade e aplicação de penalidades
 
  ---
 

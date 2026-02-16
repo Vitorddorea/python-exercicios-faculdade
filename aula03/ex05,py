@@ -1,0 +1,39 @@
+'''5. Contagem de Votos:
+Crie um programa que simule uma votação. Crie as variáveis votos_A e votos_B com valores iniciais 0. Repita a solicitação de votos até que o usuário digite 0. No final, verifique qual candidato teve mais votos e imprima o vencedor.'''
+
+votos_A = votos_B = 0
+
+print('CONTADOR DE VOTOS')
+
+while True:
+    try:
+        voto = int(input('Para votar em A digite 1 ou em B digite 2 e para parar a votação digite 0: '))
+    except ValueError:
+        print('\33[031m Digite um número inteiro!\33[m')
+    else:
+        if voto == 1:
+            votos_A += 1
+            
+        elif voto == 2:
+            votos_B += 1
+            
+        elif voto == 0:
+            break
+        else:
+            print('\33[031m Digite uma opção válida!\33[m')
+
+votosTot = votos_A + votos_B
+
+print('Resultado:')
+print(f'O total de votos foi {votosTot}')
+print(f'A = {votos_A} e B = {votos_B}')
+
+if votos_A > votos_B:
+    print(' A venceu a votação!')
+elif votos_B > votos_A:
+    print(' B venceu a votação!')
+else:
+    print('Empate!')
+
+        
+    
