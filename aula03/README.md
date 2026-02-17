@@ -1,4 +1,4 @@
-# Aula 02 – Desvio Condicional (if, elif, else)
+# Aula 03 – Desvio Condicional (if, elif, else)
 
 Nesta aula foram praticados conceitos fundamentais de **laços de repetição**, **contadores**, **condições lógicas** e **interação com o usuário**, utilizando Python.
 
