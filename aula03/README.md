@@ -29,13 +29,13 @@ Os exercícios têm como objetivo desenvolver o raciocínio lógico, permitindo 
   
 - [x] ***Exercício 05** - Contagem de votos
 
-- [ ] **Exercício 06** - Tabuada
+- [x] **Exercício 06** - Tabuada
 
-- [ ] **Exercício 07** Validação de senha com tentativas
+- [x] **Exercício 07** Validação de senha com tentativas
 
-- [ ] **Exercício 08** - Soma de pares e ímpares
+- [x] **Exercício 08** - Soma de pares e ímpares
 
-- [ ] **Exercício 09** - Detector de vogais e consoantes
+- [x] **Exercício 09** - Detector de vogais e consoantes
 
 - [ ] **Exercício 010** - Calculadora simples
 
