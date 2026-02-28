@@ -37,7 +37,7 @@ Os exercícios têm como objetivo desenvolver o raciocínio lógico, permitindo 
 
 - [x] **Exercício 09** - Detector de vogais e consoantes
 
-- [ ] **Exercício 010** - Calculadora simples
+- [x] **Exercício 010** - Calculadora simples
 
  ---
 
